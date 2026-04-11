@@ -1,0 +1,28 @@
+2026-04-05 17:48:15,785 [INFO] __main__: База данных инициализирована
+2026-04-05 17:48:15,828 [INFO] __main__: Бот запущен! Текущее время (по конфигу): 2026-04-06 00:48
+2026-04-05 17:48:15,830 [INFO] handlers.reschedule: Нет запланированных анонсов для восстановления
+2026-04-05 17:48:15,831 [INFO] handlers.notifications: Нет активных анонсов для восстановления уведомлений
+2026-04-05 17:48:15,831 [INFO] __main__: Ежедневная очистка запланирована
+2026-04-05 17:48:15,832 [INFO] aiogram.dispatcher: Start polling
+2026-04-05 17:48:15,832 [INFO] handlers.notifications: Очистка запланирована через 23.2ч (07.04 00:01)
+2026-04-05 17:48:15,862 [INFO] aiogram.dispatcher: Run polling for bot @COOPbratva_bot id=8654848008 - 'КООП бот'
+2026-04-05 17:49:13,935 [INFO] aiogram.event: Update id=195880085 is not handled. Duration 9 ms by bot id=8654848008
+2026-04-05 17:49:21,618 [INFO] aiogram.event: Update id=195880086 is handled. Duration 84 ms by bot id=8654848008
+2026-04-05 17:49:23,092 [INFO] handlers.suggestions: Запрос Steam API для AppID=2240620 от user_id=568313598
+2026-04-05 17:49:23,171 [INFO] handlers.suggestions: Steam API: начинаем для AppID=2240620
+2026-04-05 17:49:23,383 [INFO] handlers.suggestions: Steam API: данные из RU для 'UNBEATABLE' (AppID=2240620)
+2026-04-05 17:49:23,617 [INFO] aiogram.event: Update id=195880087 is handled. Duration 527 ms by bot id=8654848008
+2026-04-05 17:49:38,551 [INFO] aiogram.event: Update id=195880088 is handled. Duration 106 ms by bot id=8654848008
+2026-04-05 17:49:40,201 [INFO] handlers.suggestions: Запрос Steam API для AppID=1091500 от user_id=568313598
+2026-04-05 17:49:40,230 [INFO] handlers.suggestions: Steam API: начинаем для AppID=1091500
+2026-04-05 17:49:40,412 [INFO] handlers.suggestions: Steam API [RU]: success=false для AppID=1091500
+2026-04-05 17:49:42,164 [INFO] handlers.suggestions: Steam API: данные из KZ для 'Cyberpunk 2077' (AppID=1091500)
+2026-04-05 17:49:47,922 [INFO] aiogram.event: Update id=195880089 is handled. Duration 7727 ms by bot id=8654848008
+2026-04-05 17:55:33,338 [INFO] aiogram.event: Update id=195880090 is handled. Duration 67 ms by bot id=8654848008
+2026-04-05 17:55:34,297 [INFO] aiogram.event: Update id=195880091 is handled. Duration 29 ms by bot id=8654848008
+2026-04-05 18:00:12,419 [INFO] aiogram.event: Update id=195880092 is handled. Duration 48 ms by bot id=8654848008
+2026-04-05 18:00:14,235 [INFO] aiogram.event: Update id=195880093 is handled. Duration 34 ms by bot id=8654848008
+2026-04-05 18:00:20,059 [INFO] aiogram.event: Update id=195880094 is handled. Duration 73 ms by bot id=8654848008
+2026-04-05 18:00:20,797 [INFO] aiogram.event: Update id=195880095 is handled. Duration 31 ms by bot id=8654848008
+2026-04-05 18:00:24,581 [INFO] aiogram.event: Update id=195880096 is handled. Duration 34 ms by bot id=8654848008
+2026-04-05 18:00:27,002 [INFO] aiogram.event: Update id=195880097 is handled. Duration 37 ms by bot id=8654848008
